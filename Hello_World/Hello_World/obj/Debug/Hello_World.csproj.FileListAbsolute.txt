@@ -1,0 +1,6 @@
+C:\Users\pontus.luckman\Documents\GitHub\HelloWorld\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\pontus.luckman\Documents\GitHub\HelloWorld\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\pontus.luckman\Documents\GitHub\HelloWorld\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\pontus.luckman\Documents\GitHub\HelloWorld\Hello_World\Hello_World\obj\Debug\Hello_World.csprojResolveAssemblyReference.cache
+C:\Users\pontus.luckman\Documents\GitHub\HelloWorld\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\pontus.luckman\Documents\GitHub\HelloWorld\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
